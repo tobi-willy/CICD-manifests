@@ -1,2 +1,6 @@
 resources:
   - ../../base
+
+images:
+  - name: tobiwilly/node-web-app
+    newTag: ${{ github.sha }}
