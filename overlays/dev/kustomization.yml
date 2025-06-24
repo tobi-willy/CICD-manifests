@@ -3,4 +3,4 @@ resources:
 
 images:
   - name: tobiwilly/node-web-app
-    newTag: ${{ github.sha }}
+    newTag: v2
