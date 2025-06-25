@@ -1,2 +1,7 @@
+namespace: prod
 resources:
   - ../../base
+
+images:
+  - name: tobiwilly/node-web-app
+    newTag: v2
