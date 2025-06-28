@@ -4,7 +4,7 @@ resources:
 
 images:
   - name: tobiwilly/node-web-app
-    newTag: dummy-tag
+    newTag: v2
     
 
   
