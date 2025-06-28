@@ -3,4 +3,4 @@ resources:
 
 images:
   - name: tobiwilly/node-web-app
-    newTag: v2
+newTag: v2
