@@ -1,6 +1,9 @@
-# Kubernetes Manifests for Node.js App 🚀
+# Kubernetes Manifests for Node.js App 
 ## Overview
 This repo contains Kustomize-based Kubernetes manifests for dev and prod environments.
+
+![CICD diagram](https://github.com/user-attachments/assets/5d81856f-c8d7-4273-b4cd-5f0cda914c21)
+
 
 ## Features
 
